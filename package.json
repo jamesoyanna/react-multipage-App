@@ -1,0 +1,19 @@
+{
+  "name": "react-multipage-app",
+  "version": "1.0.0",
+  "description": "A multi page applicaion integrated with react library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesoyanna/react-multipage-App.git"
+  },
+  "author": "James oyanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesoyanna/react-multipage-App/issues"
+  },
+  "homepage": "https://github.com/jamesoyanna/react-multipage-App#readme"
+}
